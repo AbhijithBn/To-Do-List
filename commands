@@ -1,0 +1,4 @@
+1-  npm install -g create-react-app
+2-  cd react_todo
+3-  create-react-app todolist
+4-  
